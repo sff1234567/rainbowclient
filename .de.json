@@ -13,4 +13,8 @@
   "auth_tos_line1": "Durch Anklicken dieses Kästchens stimmst du den",
   "auth_tos_link": "Nutzungsbedingungen",
   "auth_tos_line2_suffix": " von Rainbow Client zu"
+  "menu_home": "Start",
+  "menu_shop": "Shop",
+  "menu_mods": "Mods",
+  "menu_settings": "Einstellungen"
 }
