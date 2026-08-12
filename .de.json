@@ -10,7 +10,7 @@
   "auth_nokey_link": "Klicken hier",
   "auth_plus_p1": "Müde davon, alle 24 Stunden einen Schlüssel zu holen? ",
   "auth_plus_link": "Hol dir Rainbow+",
-  "auth_tos_p1": "Durch Anklicken dieses Kästchens stimmst du den ",
+  "auth_tos_line1": "Durch Anklicken dieses Kästchens stimmst du den",
   "auth_tos_link": "Nutzungsbedingungen",
-  "auth_tos_p2": " von Rainbow Client zu"
+  "auth_tos_line2_suffix": " von Rainbow Client zu"
 }
