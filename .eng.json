@@ -13,4 +13,8 @@
   "auth_tos_line1": "By clicking this box, you agree with the",
   "auth_tos_link": "Terms of Service",
   "auth_tos_line2_suffix": " of Rainbow Client"
+  "menu_home": "Home",
+  "menu_shop": "Shop",
+  "menu_mods": "Mods",
+  "menu_settings": "Settings"
 }
