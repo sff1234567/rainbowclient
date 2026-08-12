@@ -9,5 +9,8 @@
   "auth_nokey_p2": " one ",
   "auth_nokey_link": "by clicking here",
   "auth_plus_p1": "Tired of getting a key every 24 hours? ",
-  "auth_plus_link": "Get Rainbow+"
+  "auth_plus_link": "Get Rainbow+",
+  "auth_tos_p1": "By clicking this box, you agree with the ",
+  "auth_tos_link": "Terms of Service",
+  "auth_tos_p2": " of Rainbow Client"
 }
