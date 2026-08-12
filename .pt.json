@@ -9,5 +9,8 @@
   "auth_nokey_p2": " clicando ",
   "auth_nokey_link": "aqui",
   "auth_plus_p1": "Cansado de pegar uma key a cada 24 horas? ",
-  "auth_plus_link": "Adquira o Rainbow+"
+  "auth_plus_link": "Adquira o Rainbow+",
+  "auth_tos_p1": "Ao marcar esta caixa, você concorda com os ",
+  "auth_tos_link": "Termos de Serviço",
+  "auth_tos_p2": " do Rainbow Client"
 }
