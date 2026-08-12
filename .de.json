@@ -17,4 +17,12 @@
   "menu_shop": "Shop",
   "menu_mods": "Mods",
   "menu_settings": "Einstellungen"
+  "menu_launch": "Starten",
+  "menu_mods": "Mods",
+  "menu_versions": "Versionen",
+  "menu_settings": "Einstellungen",
+  "link_site": "Webseite",
+  "link_tos": "Nutzungsbedingungen",
+  "link_shop": "Shop",
+  "link_discord": "Discord"
 }
