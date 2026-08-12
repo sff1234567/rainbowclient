@@ -13,4 +13,8 @@
   "auth_tos_line1": "Al marcar esta casilla, aceptas los",
   "auth_tos_link": "Términos de Servicio",
   "auth_tos_line2_suffix": " de Rainbow Client"
+  "menu_home": "Inicio",
+  "menu_shop": "Tienda",
+  "menu_mods": "Mods",
+  "menu_settings": "Ajustes"
 }
