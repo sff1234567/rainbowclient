@@ -10,7 +10,7 @@
   "auth_nokey_link": "cliquant ici",
   "auth_plus_p1": "Fatigué d'obtenir une clé toutes les 24 heures ? ",
   "auth_plus_link": "Obtenez Rainbow+",
-  "auth_tos_p1": "En cochant cette case, vous acceptez les ",
+  "auth_tos_line1": "En cochant cette case, vous acceptez les",
   "auth_tos_link": "Conditions d'Utilisation",
-  "auth_tos_p2": " de Rainbow Client"
+  "auth_tos_line2_suffix": " de Rainbow Client"
 }
