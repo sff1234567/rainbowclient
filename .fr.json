@@ -13,4 +13,8 @@
   "auth_tos_line1": "En cochant cette case, vous acceptez les",
   "auth_tos_link": "Conditions d'Utilisation",
   "auth_tos_line2_suffix": " de Rainbow Client"
+  "menu_home": "Accueil",
+  "menu_shop": "Boutique",
+  "menu_mods": "Mods",
+  "menu_settings": "Paramètres"
 }
