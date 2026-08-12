@@ -1,4 +1,13 @@
 {
-    "selectgame_title": "Select your game",
-    "continue_btn": "Continue"
+  "continue_btn": "Continue",
+  "selectgame_title": "Select your game",
+  "auth_user_hint": "User",
+  "auth_password_hint": "Password",
+  "auth_key_hint": "Key",
+  "auth_nokey_p1": "No key yet? Get a ",
+  "auth_nokey_bold": "free",
+  "auth_nokey_p2": " one ",
+  "auth_nokey_link": "by clicking here",
+  "auth_plus_p1": "Tired of getting a key every 24 hours? ",
+  "auth_plus_link": "Get Rainbow+"
 }
