@@ -1,4 +1,13 @@
 {
-    "selectgame_title": "Wähle dein Spiel",
-    "continue_btn": "Weiter"
+  "continue_btn": "Weiter",
+  "selectgame_title": "Wähle dein Spiel",
+  "auth_user_hint": "Benutzer",
+  "auth_password_hint": "Passwort",
+  "auth_key_hint": "Schlüssel",
+  "auth_nokey_p1": "Noch keinen Schlüssel? Hol dir einen ",
+  "auth_nokey_bold": "kostenlosen",
+  "auth_nokey_p2": " durch ",
+  "auth_nokey_link": "Klicken hier",
+  "auth_plus_p1": "Müde davon, alle 24 Stunden einen Schlüssel zu holen? ",
+  "auth_plus_link": "Hol dir Rainbow+"
 }
