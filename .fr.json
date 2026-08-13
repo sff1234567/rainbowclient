@@ -1,4 +1,19 @@
 {
+  "continue_btn": "Continuer",
+  "selectgame_title": "Choisissez votre jeu",
+  "auth_user_hint": "Utilisateur",
+  "auth_password_hint": "Mot de passe",
+  "auth_key_hint": "Clé",
+  "auth_nokey_p1": "Pas encore de clé ? Obtenez-en une ",
+  "auth_nokey_bold": "gratuitement",
+  "auth_nokey_p2": " ",
+  "auth_nokey_link": "en cliquant ici",
+  "auth_plus_p1": "Fatigué d'obtenir une clé toutes les 24 heures ? ",
+  "auth_plus_link": "Obtenez Rainbow+",
+  "auth_tos_line1": "En cochant cette case, vous acceptez les",
+  "auth_tos_link": "Conditions d'utilisation",
+  "auth_tos_line2_suffix": " de Rainbow Client",
+
   "menu_launch":   "Lancer",
   "menu_mods":     "Mods",
   "menu_versions": "Versions",
@@ -14,22 +29,5 @@
   "add_first_mod": "Ajoutez votre premier mod",
 
   "lang_select_title":    "Choisissez votre langue",
-  "lang_select_subtitle": "Vous pourrez modifier cela plus tard dans les Paramètres.",
-
-  "selectgame_title":    "Choisissez votre jeu",
-  "continue_btn":        "Continuer",
-
-  "auth_key_hint":        "Entrez votre clé de licence pour continuer",
-
-  "auth_nokey_p1":     "Vous n'avez pas encore de clé ?",
-  "auth_nokey_bold":   "Achetez maintenant",
-  "auth_nokey_p2":     "et débloquez l'accès complet au client",
-  "auth_nokey_link":   "ici",
-
-  "auth_tos_line1":         "En continuant, vous acceptez nos",
-  "auth_tos_link":          "Conditions d'utilisation",
-  "auth_tos_line2_suffix":  "et notre Politique de confidentialité.",
-
-  "auth_plus_p1":    "Envie d'avantages supplémentaires ?",
-  "auth_plus_link":  "Découvrez Rainbow Client+"
+  "lang_select_subtitle": "Vous pourrez modifier cela plus tard dans les Paramètres."
 }
