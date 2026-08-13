@@ -1,30 +1,35 @@
 {
-  "menu_launch": "Iniciar",
-  "menu_mods": "Mods",
+  "menu_launch":   "Iniciar",
+  "menu_mods":     "Mods",
   "menu_versions": "Versões",
   "menu_settings": "Configurações",
-  "link_site": "Site",
-  "link_tos": "Termos de Serviço",
-  "link_shop": "Loja",
+
+  "link_site":    "Site",
+  "link_tos":     "Termos de Serviço",
+  "link_shop":    "Loja",
   "link_discord": "Discord",
-  "select_language_title": "Selecionar Idioma",
-  "select_language_subtitle": "Escolha seu idioma preferido para continuar.",
-  "select_language_continue": "Continuar",
-  "select_game_title": "Selecionar Jogo",
-  "select_game_subtitle": "Escolha com qual jogo deseja usar o Rainbow Client.",
-  "select_game_continue": "Continuar",
-  "auth_title": "Bem-vindo de Volta",
-  "auth_subtitle": "Digite sua chave de licença para continuar.",
-  "auth_username": "Usuário",
-  "auth_password": "Senha",
-  "auth_key": "Chave de Licença",
-  "auth_login": "Entrar",
-  "auth_register": "Registrar",
-  "auth_forgot": "Esqueceu a senha?",
-  "auth_error_empty": "Por favor, preencha todos os campos.",
-  "auth_error_invalid": "Credenciais inválidas. Tente novamente.",
-  "auth_error_network": "Erro de rede. Verifique sua conexão.",
-  "active_mods": "Mods ativos",
+
+  "active_mods":   "Mods ativos",
   "open_mods_tab": "Abrir aba de mods",
-  "add_first_mod": "Adicione seu primeiro mod"
+  "add_first_mod": "Adicione seu primeiro mod",
+
+  "lang_select_title":    "Selecione seu idioma",
+  "lang_select_subtitle": "Você pode alterar isso depois nas Configurações.",
+
+  "selectgame_title":    "Selecione seu jogo",
+  "continue_btn":        "Continuar",
+
+  "auth_key_hint":        "Digite sua chave de licença para continuar",
+
+  "auth_nokey_p1":     "Ainda não tem uma chave?",
+  "auth_nokey_bold":   "Compre agora",
+  "auth_nokey_p2":     "e desbloqueie acesso total ao client",
+  "auth_nokey_link":   "aqui",
+
+  "auth_tos_line1":         "Ao continuar, você concorda com nossos",
+  "auth_tos_link":          "Termos de Serviço",
+  "auth_tos_line2_suffix":  "e Política de Privacidade.",
+
+  "auth_plus_p1":    "Quer benefícios extras?",
+  "auth_plus_link":  "Conheça o Rainbow Client+"
 }
