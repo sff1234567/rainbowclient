@@ -1,30 +1,34 @@
-{
-  "menu_launch": "Starten",
-  "menu_mods": "Mods",
+  "menu_launch":   "Starten",
+  "menu_mods":     "Mods",
   "menu_versions": "Versionen",
   "menu_settings": "Einstellungen",
-  "link_site": "Website",
-  "link_tos": "Nutzungsbedingungen",
-  "link_shop": "Shop",
+
+  "link_site":    "Website",
+  "link_tos":     "Nutzungsbedingungen",
+  "link_shop":    "Shop",
   "link_discord": "Discord",
-  "select_language_title": "Sprache Wählen",
-  "select_language_subtitle": "Wähle deine bevorzugte Sprache, um fortzufahren.",
-  "select_language_continue": "Weiter",
-  "select_game_title": "Spiel Wählen",
-  "select_game_subtitle": "Wähle, mit welchem Spiel du Rainbow Client verwenden möchtest.",
-  "select_game_continue": "Weiter",
-  "auth_title": "Willkommen Zurück",
-  "auth_subtitle": "Gib deinen Lizenzschlüssel ein, um fortzufahren.",
-  "auth_username": "Benutzername",
-  "auth_password": "Passwort",
-  "auth_key": "Lizenzschlüssel",
-  "auth_login": "Anmelden",
-  "auth_register": "Registrieren",
-  "auth_forgot": "Passwort vergessen?",
-  "auth_error_empty": "Bitte fülle alle Felder aus.",
-  "auth_error_invalid": "Ungültige Anmeldedaten. Bitte erneut versuchen.",
-  "auth_error_network": "Netzwerkfehler. Überprüfe deine Verbindung.",
-  "active_mods": "Aktive Mods",
+
+  "active_mods":   "Aktive Mods",
   "open_mods_tab": "Mods-Tab öffnen",
-  "add_first_mod": "Füge deinen ersten Mod hinzu"
+  "add_first_mod": "Füge deinen ersten Mod hinzu",
+
+  "lang_select_title":    "Wähle deine Sprache",
+  "lang_select_subtitle": "Du kannst dies später in den Einstellungen ändern.",
+
+  "selectgame_title":    "Wähle dein Spiel",
+  "continue_btn":        "Weiter",
+
+  "auth_key_hint":        "Gib deinen Lizenzschlüssel ein, um fortzufahren",
+
+  "auth_nokey_p1":     "Du hast noch keinen Schlüssel?",
+  "auth_nokey_bold":   "Jetzt kaufen",
+  "auth_nokey_p2":     "und schalte vollen Zugriff auf den Client frei",
+  "auth_nokey_link":   "hier",
+
+  "auth_tos_line1":         "Indem du fortfährst, stimmst du unseren",
+  "auth_tos_link":          "Nutzungsbedingungen",
+  "auth_tos_line2_suffix":  "und der Datenschutzrichtlinie zu.",
+
+  "auth_plus_p1":    "Möchtest du zusätzliche Vorteile?",
+  "auth_plus_link":  "Entdecke Rainbow Client+"
 }
