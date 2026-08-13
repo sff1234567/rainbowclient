@@ -1,3 +1,4 @@
+
 {
   "continue_btn": "Weiter",
   "selectgame_title": "Wähle dein Spiel",
@@ -13,21 +14,23 @@
   "auth_tos_line1": "Indem du dieses Kästchen anklickst, stimmst du den",
   "auth_tos_link": "Nutzungsbedingungen",
   "auth_tos_line2_suffix": " von Rainbow Client zu",
-
-  "menu_launch":   "Starten",
-  "menu_mods":     "Mods",
+  "menu_launch": "Starten",
+  "menu_mods": "Mods",
   "menu_versions": "Versionen",
   "menu_settings": "Einstellungen",
-
-  "link_site":    "Website",
-  "link_tos":     "Nutzungsbedingungen",
-  "link_shop":    "Shop",
+  "link_site": "Website",
+  "link_tos": "Nutzungsbedingungen",
+  "link_shop": "Shop",
   "link_discord": "Discord",
-
-  "active_mods":   "Aktive Mods",
+  "active_mods": "Aktive Mods",
+  "active_mods_count": "(0)",
   "open_mods_tab": "Mods-Tab öffnen",
   "add_first_mod": "Füge deinen ersten Mod hinzu",
-
-  "lang_select_title":    "Wähle deine Sprache",
-  "lang_select_subtitle": "Du kannst dies später in den Einstellungen ändern."
+  "lang_select_title": "Wähle deine Sprache",
+  "lang_select_subtitle": "Du kannst dies später in den Einstellungen ändern.",
+  "brand_name": "Rainbow Client",
+  "tab_launch_placeholder": "Starten",
+  "tab_mods_placeholder": "Mods",
+  "tab_versions_placeholder": "Versionen",
+  "tab_settings_placeholder": "Einstellungen"
 }
