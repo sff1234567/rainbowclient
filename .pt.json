@@ -13,21 +13,23 @@
   "auth_tos_line1": "Ao marcar esta caixa, você concorda com os",
   "auth_tos_link": "Termos de Serviço",
   "auth_tos_line2_suffix": " do Rainbow Client",
-
-  "menu_launch":   "Iniciar",
-  "menu_mods":     "Mods",
+  "menu_launch": "Iniciar",
+  "menu_mods": "Mods",
   "menu_versions": "Versões",
   "menu_settings": "Configurações",
-
-  "link_site":    "Site",
-  "link_tos":     "Termos de Serviço",
-  "link_shop":    "Loja",
+  "link_site": "Site",
+  "link_tos": "Termos de Serviço",
+  "link_shop": "Loja",
   "link_discord": "Discord",
-
-  "active_mods":   "Mods ativos",
+  "active_mods": "Mods ativos",
+  "active_mods_count": "(0)",
   "open_mods_tab": "Abrir aba de mods",
   "add_first_mod": "Adicione seu primeiro mod",
-
-  "lang_select_title":    "Selecione seu idioma",
-  "lang_select_subtitle": "Você pode alterar isso depois nas Configurações."
+  "lang_select_title": "Selecione seu idioma",
+  "lang_select_subtitle": "Você pode alterar isso depois nas Configurações.",
+  "brand_name": "Rainbow Client",
+  "tab_launch_placeholder": "Iniciar",
+  "tab_mods_placeholder": "Mods",
+  "tab_versions_placeholder": "Versões",
+  "tab_settings_placeholder": "Configurações"
 }
