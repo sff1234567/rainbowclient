@@ -13,21 +13,23 @@
   "auth_tos_line1": "By clicking this box, you agree with the",
   "auth_tos_link": "Terms of Service",
   "auth_tos_line2_suffix": " of Rainbow Client",
-
-  "menu_launch":   "Launch",
-  "menu_mods":     "Mods",
+  "menu_launch": "Launch",
+  "menu_mods": "Mods",
   "menu_versions": "Versions",
   "menu_settings": "Settings",
-
-  "link_site":    "Site",
-  "link_tos":     "Terms Of Service",
-  "link_shop":    "Shop",
+  "link_site": "Site",
+  "link_tos": "Terms Of Service",
+  "link_shop": "Shop",
   "link_discord": "Discord",
-
-  "active_mods":   "Active mods",
+  "active_mods": "Active mods",
+  "active_mods_count": "(0)",
   "open_mods_tab": "Open mods tab",
   "add_first_mod": "Add your first mod",
-
-  "lang_select_title":    "Select your language",
-  "lang_select_subtitle": "You can change this later in Settings."
+  "lang_select_title": "Select your language",
+  "lang_select_subtitle": "You can change this later in Settings.",
+  "brand_name": "Rainbow Client",
+  "tab_launch_placeholder": "Launch",
+  "tab_mods_placeholder": "Mods",
+  "tab_versions_placeholder": "Versions",
+  "tab_settings_placeholder": "Settings"
 }
