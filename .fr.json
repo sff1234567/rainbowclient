@@ -13,21 +13,23 @@
   "auth_tos_line1": "En cochant cette case, vous acceptez les",
   "auth_tos_link": "Conditions d'utilisation",
   "auth_tos_line2_suffix": " de Rainbow Client",
-
-  "menu_launch":   "Lancer",
-  "menu_mods":     "Mods",
+  "menu_launch": "Lancer",
+  "menu_mods": "Mods",
   "menu_versions": "Versions",
   "menu_settings": "Paramètres",
-
-  "link_site":    "Site",
-  "link_tos":     "Conditions d'utilisation",
-  "link_shop":    "Boutique",
+  "link_site": "Site",
+  "link_tos": "Conditions d'utilisation",
+  "link_shop": "Boutique",
   "link_discord": "Discord",
-
-  "active_mods":   "Mods actifs",
+  "active_mods": "Mods actifs",
+  "active_mods_count": "(0)",
   "open_mods_tab": "Ouvrir l'onglet mods",
   "add_first_mod": "Ajoutez votre premier mod",
-
-  "lang_select_title":    "Choisissez votre langue",
-  "lang_select_subtitle": "Vous pourrez modifier cela plus tard dans les Paramètres."
+  "lang_select_title": "Choisissez votre langue",
+  "lang_select_subtitle": "Vous pourrez modifier cela plus tard dans les Paramètres.",
+  "brand_name": "Rainbow Client",
+  "tab_launch_placeholder": "Lancer",
+  "tab_mods_placeholder": "Mods",
+  "tab_versions_placeholder": "Versions",
+  "tab_settings_placeholder": "Paramètres"
 }
