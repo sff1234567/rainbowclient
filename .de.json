@@ -1,3 +1,19 @@
+{
+  "continue_btn": "Weiter",
+  "selectgame_title": "Wähle dein Spiel",
+  "auth_user_hint": "Benutzer",
+  "auth_password_hint": "Passwort",
+  "auth_key_hint": "Schlüssel",
+  "auth_nokey_p1": "Noch kein Schlüssel? Hol dir einen ",
+  "auth_nokey_bold": "kostenlosen",
+  "auth_nokey_p2": " ",
+  "auth_nokey_link": "indem du hier klickst",
+  "auth_plus_p1": "Müde davon, alle 24 Stunden einen Schlüssel zu holen? ",
+  "auth_plus_link": "Hol dir Rainbow+",
+  "auth_tos_line1": "Indem du dieses Kästchen anklickst, stimmst du den",
+  "auth_tos_link": "Nutzungsbedingungen",
+  "auth_tos_line2_suffix": " von Rainbow Client zu",
+
   "menu_launch":   "Starten",
   "menu_mods":     "Mods",
   "menu_versions": "Versionen",
@@ -13,22 +29,5 @@
   "add_first_mod": "Füge deinen ersten Mod hinzu",
 
   "lang_select_title":    "Wähle deine Sprache",
-  "lang_select_subtitle": "Du kannst dies später in den Einstellungen ändern.",
-
-  "selectgame_title":    "Wähle dein Spiel",
-  "continue_btn":        "Weiter",
-
-  "auth_key_hint":        "Gib deinen Lizenzschlüssel ein, um fortzufahren",
-
-  "auth_nokey_p1":     "Du hast noch keinen Schlüssel?",
-  "auth_nokey_bold":   "Jetzt kaufen",
-  "auth_nokey_p2":     "und schalte vollen Zugriff auf den Client frei",
-  "auth_nokey_link":   "hier",
-
-  "auth_tos_line1":         "Indem du fortfährst, stimmst du unseren",
-  "auth_tos_link":          "Nutzungsbedingungen",
-  "auth_tos_line2_suffix":  "und der Datenschutzrichtlinie zu.",
-
-  "auth_plus_p1":    "Möchtest du zusätzliche Vorteile?",
-  "auth_plus_link":  "Entdecke Rainbow Client+"
+  "lang_select_subtitle": "Du kannst dies später in den Einstellungen ändern."
 }
