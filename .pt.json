@@ -73,5 +73,22 @@
   "downloading_assets": "Baixando recursos",
   "downloading_fonts": "Baixando fontes",
   "downloading_languages": "Baixando idiomas",
-  "verifying_key": "Verificando autenticação"
+  "verifying_key": "Verificando autenticação",
+  "menu_launch": "Início",
+  "menu_mods": "Mods",
+  "menu_versions": "Versões",
+  "menu_settings": "Configurações",
+  "link_site": "Site",
+  "link_tos": "Termos de Uso",
+  "link_shop": "Loja",
+  "link_discord": "Discord",
+  "active_mods": "Mods ativos",
+  "open_mods_tab": "Abrir aba de mods",
+  "add_first_mod": "Adicione seu primeiro mod",
+  "launch_news": "Novidades",
+  "launch_recent": "Jogos Recentes",
+  "launch_mods_section": "Mods",
+  "launch_news_empty": "Nenhuma novidade no momento.",
+  "launch_mods_empty": "Nenhum mod ativo.",
+  "launch_recent_empty": "Nenhum jogo recente."
 }
