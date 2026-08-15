@@ -85,10 +85,13 @@
   "active_mods": "Mods actifs",
   "open_mods_tab": "Ouvrir l'onglet mods",
   "add_first_mod": "Ajoutez votre premier mod",
-  "launch_news": "Actualités",
-  "launch_recent": "Jeux Récents",
-  "launch_mods_section": "Mods",
-  "launch_news_empty": "Aucune actualité pour le moment.",
+  "launch_subtitle": "Jouez à vos expériences préférées\navec les meilleures performances.",
+  "launch_play_roblox": "JOUER À ROBLOX",
+  "launch_recent_games": "Jeux récents",
+  "launch_recent_empty": "Aucun jeu récent.",
+  "active_mods": "Mods actifs",
+  "open_mods_tab": "Ouvrir l'onglet mods",
   "launch_mods_empty": "Aucun mod actif.",
-  "launch_recent_empty": "Aucun jeu récent."
+  "launch_news": "Actualités",
+  "launch_news_empty": "Aucune actualité pour le moment."
 }
