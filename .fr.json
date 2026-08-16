@@ -92,6 +92,8 @@
   "active_mods": "Mods actifs",
   "open_mods_tab": "Ouvrir l'onglet mods",
   "launch_mods_empty": "Aucun mod actif.",
-  "launch_news": "Actualités",
+  "tab_sponsor": "Sponsor",
+  "tab_news": "Actualités",
+  "launch_sponsor_empty": "Aucun sponsor disponible.",
   "launch_news_empty": "Aucune actualité pour le moment."
 }
