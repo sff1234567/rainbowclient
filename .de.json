@@ -92,6 +92,8 @@
   "active_mods": "Aktive Mods",
   "open_mods_tab": "Mods-Tab öffnen",
   "launch_mods_empty": "Keine aktiven Mods.",
-  "launch_news": "Neuigkeiten",
-  "launch_news_empty": "Keine Neuigkeiten im Moment."
+  "tab_sponsor": "Sponsor",
+  "tab_news": "Neuigkeiten",
+  "launch_sponsor_empty": "Keine Sponsoren verfügbar.",
+  "launch_news_empty": "Derzeit keine Neuigkeiten."
 }
