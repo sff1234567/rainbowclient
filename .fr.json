@@ -95,5 +95,11 @@
   "tab_sponsor": "Sponsor",
   "tab_news": "Actualités",
   "launch_sponsor_empty": "Aucun sponsor disponible.",
-  "launch_news_empty": "Aucune actualité pour le moment."
+  "launch_news_empty": "Aucune actualité pour le moment.",
+  "launcher_select_version": "Sélectionnez votre version",
+  "launcher_pick_version": "Choisissez une version...",
+  "launcher_no_versions": "Aucune version installée.",
+  "launcher_launch": "Lancer",
+  "launcher_cancel": "Annuler",
+  "launcher_loading": "Chargement..."
 }
