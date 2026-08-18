@@ -101,5 +101,18 @@
   "launcher_no_versions": "No hay versiones instaladas.",
   "launcher_launch": "Lanzar",
   "launcher_cancel": "Cancelar",
-  "launcher_loading": "Cargando..."
+  "launcher_loading": "Cargando...",
+  "mods_type_mods": "Mods",
+  "mods_type_shaders": "Shaders",
+  "mods_search_placeholder": "Buscar mods...",
+  "mods_categories": "Categorías",
+  "mods_coming_soon": "Próximamente",
+  "mods_btn_view": "Ver",
+  "mods_btn_install": "Instalar",
+  "mods_btn_uninstall": "Desinstalar",
+  "mods_btn_cancel": "Cancelar",
+  "mods_no_results": "No se encontraron mods.",
+  "mods_filter_newest": "Más recientes",
+  "mods_filter_oldest": "Más antiguos",
+  "mods_filter_popularity": "Más populares"
 }
