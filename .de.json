@@ -118,5 +118,7 @@
   "mods_btn_cancel": "Abbrechen",
   "mods_filter_newest": "Neueste",
   "mods_filter_oldest": "Älteste",
-  "mods_filter_popularity": "Beliebteste"
+  "mods_filter_popularity": "Beliebteste",
+  "ingame_new_profile": "Neues Profil",
+  "ingame_settings": "Einstellungen"
 }
