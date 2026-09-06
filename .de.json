@@ -120,5 +120,7 @@
   "mods_filter_oldest": "Älteste",
   "mods_filter_popularity": "Beliebteste",
   "ingame_new_profile": "Neues Profil",
-  "ingame_settings": "Einstellungen"
+  "ingame_settings": "Einstellungen",
+  "ingame_enabled": "Aktiviert",
+  "ingame_disabled": "Deaktiviert"
 }
