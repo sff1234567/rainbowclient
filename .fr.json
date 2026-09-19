@@ -224,5 +224,11 @@
   "versions_roblox_version": "Version de Roblox",
   "versions_search": "Recherchez vos versions de Roblox...",
   "versions_title": "Versions",
-  "versions_using_dir": "Utilisation du répertoire Roblox"
+  "versions_using_dir": "Utilisation du répertoire Roblox",
+  "profile_modal_title": "Créer un Nouveau Profil",
+  "profile_modal_subtitle": "Choisissez de créer un nouveau profil ou d'en importer un existant.",
+  "profile_modal_import_title": "Importer un Profil",
+  "profile_modal_import_desc": "Ouvrez le dossier des profils et déposez-y un fichier .cfg.",
+  "profile_modal_new_title": "Nouveau Profil",
+  "profile_modal_new_desc": "Commencez de zéro avec un tout nouveau profil."
 }
