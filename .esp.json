@@ -741,5 +741,13 @@
   "general_tray": "Bandeja del sistema",
   "general_tray_sub": "Mientras juegas, Rainbow Client se queda en la bandeja del sistema. Haz clic derecho en el icono para cerrar Roblox.",
   "general_tray_chk": "Mostrar en la bandeja del sistema mientras juegas",
-  "tray_close_roblox": "Cerrar Roblox"
+  "tray_close_roblox": "Cerrar Roblox",
+  "mods_rainbowshaders_name": "Rainbow Shaders",
+  "mods_rainbowshaders_desc": "Posprocesado estilo ReShade (efectos .fx) aplicado a Roblox en tiempo real.",
+  "mods_toast_shaders_on_title": "Shaders activados",
+  "mods_toast_shaders_on_msg": "Los efectos se aplican en cuanto se abra Roblox.",
+  "mods_toast_shaders_off_title": "Shaders desactivados",
+  "mods_toast_shaders_off_msg": "Roblox se abrirá sin posprocesado.",
+  "shaders_toast_unsupported": "Los shaders necesitan Windows 10 (1903) o superior.",
+  "shaders_toast_failed": "Algunos efectos no compilaron. Mira RainbowShaders.log en la carpeta Shaders."
 }
