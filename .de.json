@@ -741,5 +741,13 @@
   "general_tray": "Infobereich",
   "general_tray_sub": "Während du spielst, bleibt Rainbow Client im Infobereich. Klicke mit der rechten Maustaste auf das Symbol, um Roblox zu schließen.",
   "general_tray_chk": "Beim Spielen im Infobereich anzeigen",
-  "tray_close_roblox": "Roblox schließen"
+  "tray_close_roblox": "Roblox schließen",
+  "mods_rainbowshaders_name": "Rainbow Shaders",
+  "mods_rainbowshaders_desc": "Nachbearbeitung im ReShade-Stil (.fx-Effekte) für Roblox in Echtzeit.",
+  "mods_toast_shaders_on_title": "Shader aktiviert",
+  "mods_toast_shaders_on_msg": "Die Effekte werden angewendet, sobald Roblox startet.",
+  "mods_toast_shaders_off_title": "Shader deaktiviert",
+  "mods_toast_shaders_off_msg": "Roblox startet ohne Nachbearbeitung.",
+  "shaders_toast_unsupported": "Shader benötigen Windows 10 (1903) oder neuer.",
+  "shaders_toast_failed": "Einige Effekte konnten nicht kompiliert werden. Siehe RainbowShaders.log im Shaders-Ordner."
 }
