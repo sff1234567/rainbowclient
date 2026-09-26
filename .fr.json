@@ -741,5 +741,13 @@
   "general_tray": "Zone de notification",
   "general_tray_sub": "Pendant que vous jouez, Rainbow Client reste dans la zone de notification. Faites un clic droit sur l'icône pour fermer Roblox.",
   "general_tray_chk": "Afficher dans la zone de notification pendant le jeu",
-  "tray_close_roblox": "Fermer Roblox"
+  "tray_close_roblox": "Fermer Roblox",
+  "mods_rainbowshaders_name": "Rainbow Shaders",
+  "mods_rainbowshaders_desc": "Post-traitement style ReShade (effets .fx) appliqué à Roblox en temps réel.",
+  "mods_toast_shaders_on_title": "Shaders activés",
+  "mods_toast_shaders_on_msg": "Les effets sont appliqués dès l'ouverture de Roblox.",
+  "mods_toast_shaders_off_title": "Shaders désactivés",
+  "mods_toast_shaders_off_msg": "Roblox s'ouvrira sans post-traitement.",
+  "shaders_toast_unsupported": "Les shaders nécessitent Windows 10 (1903) ou plus récent.",
+  "shaders_toast_failed": "Certains effets n'ont pas compilé. Voir RainbowShaders.log dans le dossier Shaders."
 }
