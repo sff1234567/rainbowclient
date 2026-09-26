@@ -741,5 +741,13 @@
   "general_tray": "System Tray",
   "general_tray_sub": "While you play, Rainbow Client stays in the system tray. Right-click the icon to close Roblox.",
   "general_tray_chk": "Show in the system tray while playing",
-  "tray_close_roblox": "Close Roblox"
+  "tray_close_roblox": "Close Roblox",
+  "mods_rainbowshaders_name": "Rainbow Shaders",
+  "mods_rainbowshaders_desc": "ReShade-style post-processing (.fx effects) applied to Roblox in real time.",
+  "mods_toast_shaders_on_title": "Shaders enabled",
+  "mods_toast_shaders_on_msg": "The effects are applied as soon as Roblox opens.",
+  "mods_toast_shaders_off_title": "Shaders disabled",
+  "mods_toast_shaders_off_msg": "Roblox will open without post-processing.",
+  "shaders_toast_unsupported": "Shaders need Windows 10 (1903) or newer.",
+  "shaders_toast_failed": "Some effects failed to compile. See RainbowShaders.log in the Shaders folder."
 }
