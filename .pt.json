@@ -734,5 +734,12 @@
   "search_link_friends": "Seus amigos do Roblox.",
   "search_link_recent": "Jogos que você jogou recentemente.",
   "search_link_unlink": "Remove a conta do Roblox vinculada ao Rainbow Client.",
-  "search_link_credits": "As pessoas que fizeram o Rainbow Client."
+  "search_link_credits": "As pessoas que fizeram o Rainbow Client.",
+  "general_admin": "Executar como administrador",
+  "general_admin_sub": "Toda vez que o Rainbow Client abrir, o Windows pergunta se ele deve rodar como administrador. Se você disser não, ele abre normal.",
+  "general_admin_chk": "Perguntar para abrir como administrador",
+  "general_tray": "Bandeja do sistema",
+  "general_tray_sub": "Enquanto você joga, o Rainbow Client fica na bandeja do sistema. Clique com o botão direito no ícone para fechar o Roblox.",
+  "general_tray_chk": "Mostrar na bandeja do sistema enquanto joga",
+  "tray_close_roblox": "Fechar Roblox"
 }
