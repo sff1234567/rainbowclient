@@ -264,7 +264,6 @@
   "settings_footer_affiliation": "Este projeto não é afiliado à Roblox.",
   "settings_footer_copyright": "Rainbow Client, 2026",
   "settings_hint_fov_range": "Faixa: 1 - 170  |  Padrão do Roblox: 70",
-  "settings_hint_zero_unlimited": "0 = ilimitado",
   "settings_item_language": "Idioma",
   "settings_item_language_desc": "Altere o idioma da interface.",
   "settings_item_reset": "Redefinir configurações",
