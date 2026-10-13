@@ -797,7 +797,7 @@
   "mods_ffe_sel_delete": "Excluir",
   "mods_ffe_sel_many": "selecionadas",
   "mods_ffe_sel_one": "selecionada",
-  "mods_ffe_tab_import": "Colar JSON",
+  "mods_ffe_tab_import": "Importar FastFlags",
   "mods_ffe_tab_single": "Uma flag",
   "mods_ffe_undo": "Desfazer",
   "mods_ffe_undo_many": "flags removidas.",
@@ -857,7 +857,7 @@
   "tray_bg_title": "O Rainbow Client continua aberto",
   "select_language_label": "Selecione seu idioma preferido",
   "mods_fastflageditor_name": "Editor de FastFlags",
-  "mods_fastflageditor_desc": "Edite FastFlags personalizadas do Roblox. Usa proxy local, interceptação, prime e substituição para aplicá-las.",
+  "mods_fastflageditor_desc": "Edite FastFlags personalizadas do Roblox.",
   "updater_checking": "Procurando atualizações…",
   "updater_downloading": "Baixando atualização…",
   "updater_installing": "Instalando atualização…",
@@ -989,5 +989,10 @@
   "installer_log_uninstall_mode": "Modo de desinstalação — version-{0}",
   "sponsor_placeholder_name": "Patrocinador {0}",
   "sponsor_placeholder_desc_2": "Os melhores serviços da cidade, não perca!",
-  "sponsor_placeholder_desc_3": "Qualidade premium garantida!"
+  "sponsor_placeholder_desc_3": "Qualidade premium garantida!",
+  "mods_ffe_mode_label": "Modo de aplicação",
+  "mods_ffe_mode_confirm_title": "Alterar modo de aplicação?",
+  "mods_ffe_mode_confirm_memory": "O modo Memory grava FastFlags compatíveis no processo Roblox em execução. Tem certeza de que deseja trocar?",
+  "mods_ffe_mode_confirm_proxy": "O modo Proxy aplica flags pelo proxy local quando o Roblox inicia. Deseja voltar ao Proxy?",
+  "mods_ffe_mode_confirm_ok": "Trocar modo"
 }
