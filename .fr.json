@@ -797,7 +797,7 @@
   "mods_ffe_sel_delete": "Supprimer",
   "mods_ffe_sel_many": "sélectionnées",
   "mods_ffe_sel_one": "sélectionnée",
-  "mods_ffe_tab_import": "Coller un JSON",
+  "mods_ffe_tab_import": "Importer des FastFlags",
   "mods_ffe_tab_single": "Une flag",
   "mods_ffe_undo": "Annuler",
   "mods_ffe_undo_many": "flags supprimées.",
@@ -857,7 +857,7 @@
   "tray_bg_title": "Rainbow Client est toujours ouvert",
   "select_language_label": "Sélectionnez votre langue préférée",
   "mods_fastflageditor_name": "Éditeur de FastFlags",
-  "mods_fastflageditor_desc": "Modifiez des FastFlags personnalisées de Roblox. Utilise un proxy local, l'interception, le prime et la substitution.",
+  "mods_fastflageditor_desc": "Modifiez les FastFlags personnalisées de Roblox.",
   "updater_checking": "Recherche de mises à jour…",
   "updater_downloading": "Téléchargement de la mise à jour…",
   "updater_installing": "Installation de la mise à jour…",
@@ -989,5 +989,10 @@
   "installer_log_uninstall_mode": "Mode désinstallation — version-{0}",
   "sponsor_placeholder_name": "Sponsor {0}",
   "sponsor_placeholder_desc_2": "Les meilleurs services de la ville, ne les manquez pas !",
-  "sponsor_placeholder_desc_3": "Qualité premium garantie !"
+  "sponsor_placeholder_desc_3": "Qualité premium garantie !",
+  "mods_ffe_mode_label": "Mode d'application",
+  "mods_ffe_mode_confirm_title": "Changer le mode d'application ?",
+  "mods_ffe_mode_confirm_memory": "Le mode Memory écrit les FastFlags compatibles dans le processus Roblox en cours. Voulez-vous continuer ?",
+  "mods_ffe_mode_confirm_proxy": "Le mode Proxy applique les flags via le proxy local au démarrage de Roblox. Revenir au Proxy ?",
+  "mods_ffe_mode_confirm_ok": "Changer de mode"
 }
