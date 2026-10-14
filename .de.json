@@ -1033,5 +1033,10 @@
   "ingame_home": "Start",
   "ingame_crumb_addons": "Addons",
   "ingame_search_addons": "Addons suchen...",
-  "ingame_footer_hint": "Drücke {key}, um dieses Menü zu öffnen oder zu schließen"
+  "ingame_footer_hint": "Drücke {key}, um dieses Menü zu öffnen oder zu schließen",
+  "news_update12_title": "UPDATE 1.2",
+  "news_update12_item1": "Hauptmenü überarbeitet;",
+  "news_update12_item2": "Anmeldeseite überarbeitet;",
+  "news_update12_item3": "Anmeldesicherheit überarbeitet;",
+  "news_update12_item4": "Ingame-Menü überarbeitet."
 }
