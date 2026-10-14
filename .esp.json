@@ -1033,5 +1033,10 @@
   "ingame_home": "Inicio",
   "ingame_crumb_addons": "Addons",
   "ingame_search_addons": "Buscar addons...",
-  "ingame_footer_hint": "Pulsa {key} para abrir o cerrar este menú"
+  "ingame_footer_hint": "Pulsa {key} para abrir o cerrar este menú",
+  "news_update12_title": "ACTUALIZACIÓN 1.2",
+  "news_update12_item1": "Menú principal rediseñado;",
+  "news_update12_item2": "Página de autenticación rediseñada;",
+  "news_update12_item3": "Seguridad de autenticación rediseñada;",
+  "news_update12_item4": "Menú del juego rediseñado."
 }
