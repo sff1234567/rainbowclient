@@ -1033,5 +1033,10 @@
   "ingame_home": "Accueil",
   "ingame_crumb_addons": "Addons",
   "ingame_search_addons": "Rechercher des addons...",
-  "ingame_footer_hint": "Appuyez sur {key} pour ouvrir ou fermer ce menu"
+  "ingame_footer_hint": "Appuyez sur {key} pour ouvrir ou fermer ce menu",
+  "news_update12_title": "MISE À JOUR 1.2",
+  "news_update12_item1": "Menu principal repensé ;",
+  "news_update12_item2": "Page d'authentification repensée ;",
+  "news_update12_item3": "Sécurité de l'authentification repensée ;",
+  "news_update12_item4": "Menu en jeu repensé."
 }
