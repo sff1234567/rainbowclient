@@ -994,5 +994,7 @@
   "mods_ffe_mode_confirm_title": "Anwendungsmodus ändern?",
   "mods_ffe_mode_confirm_memory": "Der Memory-Modus schreibt unterstützte FastFlags in den laufenden Roblox-Prozess. Wirklich wechseln?",
   "mods_ffe_mode_confirm_proxy": "Der Proxy-Modus wendet Flags beim Start über den lokalen Proxy an. Zurück zu Proxy wechseln?",
-  "mods_ffe_mode_confirm_ok": "Modus wechseln"
+  "mods_ffe_mode_confirm_ok": "Modus wechseln",
+  "versions_no_selection_title": "Keine Version ausgewählt",
+  "versions_pick_hint": "Wähle links eine Version aus, um die Details zu sehen."
 }
