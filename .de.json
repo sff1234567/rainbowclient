@@ -1026,6 +1026,17 @@
   "signin_tip_playerlist": "Wusstest du, dass du beim Spielen eine Liste aller Spieler im Server anzeigen kannst?",
   "signin_tip_rejoin": "Wusstest du, dass Auto Rejoin dich zurück ins Spiel bringt, wenn die Verbindung abbricht?",
   "signin_tip_ram": "Wusstest du, dass du in den Einstellungen begrenzen kannst, wie viel RAM Roblox nutzt?",
-  "signin_tip_cpu": "Wusstest du, dass du festlegen kannst, wie viele CPU-Kerne Roblox nutzen darf?"
+  "signin_tip_cpu": "Wusstest du, dass du festlegen kannst, wie viele CPU-Kerne Roblox nutzen darf?",
+  "ingame_welcome_title": "Willkommen zurück",
+  "ingame_welcome_sub": "im Ingame-Menü von Rainbow Client.",
+  "ingame_welcome_hint": "Wähle links ein Addon, um seine Einstellungen zu sehen.",
+  "ingame_addon_no_settings": "Dieses Addon hat keine Einstellungen. Nutze das Kästchen neben seinem Namen links, um es ein- oder auszuschalten.",
+  "ingame_section_profiles": "PROFILE",
+  "ingame_section_addons": "ADDONS",
+  "ingame_profile_empty": "Noch keine Profile",
+  "ingame_profile_none": "Kein Profil ausgewählt",
+  "ingame_home": "Start",
+  "ingame_crumb_addons": "Addons",
+  "ingame_search_addons": "Addons suchen...",
+  "ingame_footer_hint": "Drücke {key}, um dieses Menü zu öffnen oder zu schließen"
 }
-
