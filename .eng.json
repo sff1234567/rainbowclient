@@ -1033,5 +1033,10 @@
   "ingame_home": "Home",
   "ingame_crumb_addons": "Addons",
   "ingame_search_addons": "Search addons...",
-  "ingame_footer_hint": "Press {key} to open or close this menu"
+  "ingame_footer_hint": "Press {key} to open or close this menu",
+  "news_update12_title": "UPDATE 1.2",
+  "news_update12_item1": "Reworked main menu;",
+  "news_update12_item2": "Reworked auth page;",
+  "news_update12_item3": "Reworked auth security;",
+  "news_update12_item4": "Reworked in-game menu."
 }
